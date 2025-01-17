@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Dev\\blankApp\\Nike\\Nike\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Nike.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Nike.d68g499zbx.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Dev\\blankApp\\Nike\\Nike\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Dev\\blankApp\\Nike\\Nike\\wwwroot\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Dev\\blankApp\\Nike\\Nike\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nike.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Nike.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Nike.props",
+      "PackagePath": "build\\Nike.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Nike.props",
+      "PackagePath": "buildMultiTargeting\\Nike.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Nike.props",
+      "PackagePath": "buildTransitive\\Nike.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
